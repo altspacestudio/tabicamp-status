@@ -6,7 +6,7 @@ repo: tabicamp-status
 sites:
   - name: たびキャん 本番（Web）
     url: https://www.tabicamp.jp
-    method: HEAD
+    method: GET
     expectedStatusCodes:
       - 200
       - 301
