@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tabicamp.jp.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.69%",
+    "uptime": "95.08%",
+    "uptimeDay": "81.35%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "95.08%",
+    "uptimeYear": "95.08%",
     "time": 464,
-    "timeDay": 511,
+    "timeDay": 0,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2026-05-19": 0,
+      "2026-05-20": 220,
+      "2026-05-19": 49,
       "2026-05-13": 225
     }
   }
