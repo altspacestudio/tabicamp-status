@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tabicamp.jp.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "97.98%",
-    "time": 487,
-    "timeDay": 605,
-    "timeWeek": 512,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
+    "time": 485,
+    "timeDay": 444,
+    "timeWeek": 519,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
+      "2026-05-13": 225,
       "2026-05-20": 278,
-      "2026-05-19": 49,
-      "2026-05-13": 225
+      "2026-05-19": 49
     }
   }
 ]
